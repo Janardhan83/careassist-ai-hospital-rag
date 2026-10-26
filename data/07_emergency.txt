@@ -1,0 +1,85 @@
+# EMERGENCY DEPARTMENT (ER) — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Policies, Triage Protocols, FAQs for RAG Ingestion
+# DISCLAIMER: Synthetic training data for educational RAG/LLM application development only.
+
+## SECTION 1: EMERGENCY DEPARTMENT OVERVIEW
+
+Q: Where is the Emergency Department located and what are its hours?
+A: The ER is located on the Ground Floor, D Wing, with a separate ambulance entrance, operating 24 hours, 7 days a week, including all public holidays. It has 8 bays (ER-01 to ER-08), including 2 resuscitation bays equipped for cardiac arrest, trauma, and stroke management.
+
+Q: Does the hospital have its own ambulance service?
+A: Yes, the hospital operates 4 Advanced Life Support (ALS) ambulances and 2 Basic Life Support (BLS) ambulances, dispatched via the 24/7 helpline +91-40-4567-8900 (option 1 for ambulance). Average response time within city limits is 15-20 minutes.
+
+## SECTION 2: TRIAGE SYSTEM
+
+Q: How are patients triaged in the ER?
+A: The hospital follows a 5-level triage system (similar to the Emergency Severity Index):
+- **Level 1 (Resuscitation/Red)**: Immediate life threat (cardiac arrest, severe trauma, major stroke) — seen immediately
+- **Level 2 (Emergent/Orange)**: High risk, severe pain/distress (chest pain, severe breathlessness) — seen within 10 minutes
+- **Level 3 (Urgent/Yellow)**: Stable but needs prompt attention (moderate injuries, high fever) — seen within 30 minutes
+- **Level 4 (Less Urgent/Green)**: Minor injuries/illness (sprains, minor cuts) — seen within 60 minutes
+- **Level 5 (Non-Urgent/Blue)**: Minor complaints that could be managed in OPD — seen as time permits, may be redirected to OPD if stable
+
+Q: What is "Code Blue" and "Code Stroke"?
+A: "Code Blue" is the hospital-wide alert for cardiac/respiratory arrest, triggering immediate response from the resuscitation team to the patient's location. "Code Stroke" is activated for suspected acute stroke patients, fast-tracking them to CT/MRI imaging within a target "door-to-imaging" time of 25 minutes, to assess eligibility for thrombolysis (clot-busting medication) within the critical time window (typically within 4.5 hours of symptom onset).
+
+## SECTION 3: ER ADMISSION AND TRANSFER PROCESS
+
+Q: What happens after initial stabilization in the ER?
+A: Based on the diagnosis and severity, the ER physician either: (a) admits the patient to the relevant department's ward/ICU (e.g., CICU for cardiac emergencies, NICU for neurosurgical emergencies), (b) discharges the patient with outpatient follow-up instructions, or (c) arranges transfer to a higher-center facility if the required specialty/equipment is unavailable (rare, given the hospital's multispecialty capability).
+
+Q: Are family members allowed inside the ER during treatment?
+A: Generally, one attendant is permitted in the ER bay area for stable patients to assist with history-taking and registration. During active resuscitation (Code Blue) or procedures, family members wait in the designated ER waiting area and are updated by the duty doctor or nurse at regular intervals.
+
+## SECTION 4: ER FAQs
+
+Q: Is payment required before emergency treatment begins?
+A: No. As per hospital policy and medical ethics guidelines, emergency stabilization treatment is never withheld for payment reasons. Registration and billing formalities are completed in parallel with or immediately after initial stabilization.
+
+Q: What should someone do if they suspect a stroke?
+A: Call the emergency helpline immediately or bring the patient to the ER without delay. Note the time symptoms started (critical for treatment eligibility). Common stroke signs follow the "FAST" mnemonic: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services.
+
+Q: Can the ER handle pediatric emergencies?
+A: Yes, the ER has a dedicated pediatric resuscitation bay with age-appropriate equipment, and a pediatrician is on-call 24/7 for emergency pediatric consultations.
+
+## SECTION 5: AMBULANCE FLEET DETAILS
+
+| Ambulance ID | Type | Equipment | Base Station |
+|---|---|---|---|
+| VIH-AMB-01 | Advanced Life Support (ALS) | Ventilator, Defibrillator, Cardiac Monitor, IV pumps | Main Hospital |
+| VIH-AMB-02 | Advanced Life Support (ALS) | Ventilator, Defibrillator, Cardiac Monitor, IV pumps | Main Hospital |
+| VIH-AMB-03 | Advanced Life Support (ALS) | Ventilator, Defibrillator, Cardiac Monitor, IV pumps | Satellite Clinic - Kondapur |
+| VIH-AMB-04 | Advanced Life Support (ALS) | Ventilator, Defibrillator, Cardiac Monitor, IV pumps | Satellite Clinic - Gachibowli |
+| VIH-AMB-05 | Basic Life Support (BLS) | Oxygen, First Aid, Stretcher, AED | Main Hospital |
+| VIH-AMB-06 | Basic Life Support (BLS) | Oxygen, First Aid, Stretcher, AED | Main Hospital |
+
+Q: How is ambulance dispatch prioritized during high-demand periods?
+A: The Ambulance Control Desk uses a real-time GPS dispatch system to allocate the nearest available ambulance based on triage severity reported by the caller; ALS ambulances are reserved for calls indicating cardiac, stroke, trauma, or respiratory emergencies.
+
+## SECTION 6: MASS CASUALTY AND DISASTER PROTOCOL
+
+Q: What happens during a mass casualty incident (MCI)?
+A: The hospital activates its Disaster Management Plan, which includes: opening additional triage zones in the ER parking area, recalling off-duty staff via an automated alert system, converting select OPD areas into overflow treatment bays, and establishing a family information/reunification desk near the main lobby.
+
+Q: How are patients categorized during a mass casualty event?
+A: Patients are tagged using color-coded triage tags: Red (immediate/critical), Yellow (urgent, delayed treatment acceptable), Green (walking wounded, minor), and Black (deceased/expectant), following standard START (Simple Triage and Rapid Treatment) triage methodology.
+
+## SECTION 7: POISONING AND TOXICOLOGY
+
+Q: What should be done in a suspected poisoning case before reaching the hospital?
+A: Do not induce vomiting unless specifically advised by a medical professional or poison control. Bring the substance container/packaging if available, note the approximate time and quantity ingested, and proceed immediately to the ER or call the emergency helpline for guidance en route.
+
+Q: Does the hospital have a Poison Information/Toxicology resource?
+A: Yes, the ER maintains 24/7 access to the National Poison Information Centre helpline and an in-house toxicology reference protocol for common poisonings (organophosphate, paracetamol overdose, snake bite, corrosive ingestion), guiding immediate antidote and supportive care decisions.
+
+## SECTION 8: EMERGENCY DEPARTMENT FAQs (CONTINUED)
+
+Q: Is a psychiatric on-call service available for mental health emergencies?
+A: Yes, a psychiatrist is on-call 24/7 for the ER, providing crisis assessment, risk evaluation, and coordination with the Psychiatry department for admission or outpatient follow-up as needed.
+
+Q: What is the process if a patient arrives at the ER unconscious with no identification?
+A: Treatment begins immediately under a temporary "Unknown Patient" UHID; the hospital's Medical Social Worker and Duty Manager coordinate with local police and community resources to establish identity and notify next of kin, without delaying care.
+
+Q: Does the hospital ER handle snake bite and animal bite cases?
+A: Yes, the ER stocks polyvalent anti-snake venom (ASV) and rabies immunoglobulin/vaccine, with a defined protocol for envenomation assessment and observation, typically requiring a minimum 24-hour observation period for suspected venomous snake bites.

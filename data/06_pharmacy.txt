@@ -1,0 +1,158 @@
+# PHARMACY DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Policies, Drug Formulary Excerpts, FAQs for RAG Ingestion
+# DISCLAIMER: Synthetic training data for educational RAG/LLM application development only.
+
+## SECTION 1: PHARMACY SERVICES OVERVIEW
+
+Q: What are the pharmacy's operating hours?
+A: The main pharmacy (Ground Floor, Main Lobby, Counters PH-001 to PH-003) operates 24 hours, 7 days a week. A satellite pharmacy near the Emergency Department also operates 24/7 for urgent medication needs.
+
+Q: Does the hospital pharmacy stock all prescribed medications?
+A: The pharmacy stocks approximately 1,200 SKUs covering common formulary medications across all departments. For rare or specialty drugs not in stock, the pharmacy coordinates with empanelled external pharmacies for same-day or next-day procurement.
+
+Q: How are inpatient medications dispensed and billed?
+A: For IPD patients, medications are dispensed via a unit-dose system directly to the ward, charged automatically to the patient's bill through the Hospital Information System (HIS), itemized by drug name, batch number, quantity, and rate.
+
+Q: Can patients bring their own medications from outside?
+A: Outpatients may continue home medications as advised by the doctor. For inpatients, all medications brought from outside must be verified and approved by the treating doctor/pharmacist before administration, to avoid duplication or interaction issues; in most cases, hospital-supplied medication is used during admission.
+
+## SECTION 2: GENERIC SUBSTITUTION AND PRICING POLICY
+
+Q: Does the pharmacy offer generic medication alternatives?
+A: Yes. As per hospital policy and patient consent, generic equivalents (same active ingredient, different brand) may be substituted for branded medications, typically offering 30-60% cost savings, unless the prescribing doctor specifies "no substitution."
+
+Q: Are medication prices the same as MRP (Maximum Retail Price)?
+A: The hospital pharmacy sells at MRP or below for most medications. Select chronic disease medications (diabetes, hypertension, cardiac) are offered at a discounted rate (5-10% below MRP) under the hospital's "Chronic Care Savings Program" for enrolled patients.
+
+## SECTION 3: SAMPLE FORMULARY EXCERPT (COMMON MEDICATIONS, ILLUSTRATIVE PRICING)
+
+| Drug Name | Category | Pack Size | MRP (INR) | Generic Available |
+|---|---|---|---|---|
+| Paracetamol 650mg | Analgesic/Antipyretic | 15 tablets | 30 | Yes |
+| Atorvastatin 20mg | Statin | 10 tablets | 145 | Yes |
+| Metformin 500mg | Antidiabetic | 20 tablets | 55 | Yes |
+| Telmisartan 40mg | Antihypertensive | 10 tablets | 110 | Yes |
+| Clopidogrel 75mg | Antiplatelet | 15 tablets | 220 | Yes |
+| Levetiracetam 500mg | Anti-epileptic | 10 tablets | 180 | Yes |
+| Dexamethasone 4mg Injection | Corticosteroid | 1 vial | 25 | Yes |
+| Temozolomide 100mg | Chemotherapy | 5 capsules | 9,500 | Limited |
+| Insulin Glargine | Antidiabetic (injectable) | 1 pen (3ml) | 650 | Yes |
+| Enoxaparin 40mg Injection | Anticoagulant | 1 prefilled syringe | 480 | Yes |
+
+## SECTION 4: PHARMACY FAQs
+
+Q: What is the procedure for handling expired or near-expiry medications?
+A: The pharmacy follows a FEFO (First-Expiry-First-Out) dispensing protocol. Stock nearing expiry (within 3 months) is flagged in the inventory system for prioritized dispensing or return to suppliers as per agreements; expired stock is segregated and disposed of per biomedical waste guidelines, never dispensed.
+
+Q: How does the pharmacy handle narcotic/controlled substances?
+A: Controlled substances (e.g., Morphine, Fentanyl, certain benzodiazepines) are stored in a separate locked cabinet, dispensed only against a doctor's prescription on a controlled-drug register, with dual verification (pharmacist + nurse) and entries logged per the Narcotic Drugs and Psychotropic Substances (NDPS) Act requirements.
+
+Q: Can a discharged patient get a refill of their prescription from the hospital pharmacy?
+A: Yes, discharged patients can present their discharge prescription at the outpatient pharmacy counter for refills, valid for up to 30 days from the date of discharge for chronic medications, or as specified by the prescribing doctor.
+
+Q: Is home delivery of medicines available?
+A: Yes, for registered patients, the ViharaCare app allows ordering prescription refills with home delivery within a 15 km radius, typically delivered within 4-6 hours for in-stock items.
+
+## SECTION 5: EXTENDED FORMULARY EXCERPT
+
+| Drug Name | Category | Pack Size | MRP (INR) | Generic Available |
+|---|---|---|---|---|
+| Amlodipine 5mg | Antihypertensive (CCB) | 10 tablets | 40 | Yes |
+| Rosuvastatin 10mg | Statin | 10 tablets | 130 | Yes |
+| Cabergoline 0.5mg | Dopamine agonist | 4 tablets | 320 | Limited |
+| Mannitol 20% Infusion | Osmotic diuretic | 100ml bottle | 95 | Yes |
+| Phenytoin 100mg | Anti-epileptic | 10 tablets | 45 | Yes |
+| Warfarin 5mg | Anticoagulant | 10 tablets | 35 | Yes |
+| Alteplase (tPA) 50mg Injection | Thrombolytic | 1 vial | 28,500 | No |
+| Sacubitril-Valsartan 50mg | ARNI (Heart Failure) | 20 tablets | 850 | Limited |
+| Dapagliflozin 10mg | SGLT2 Inhibitor | 10 tablets | 210 | Yes |
+| Ondansetron 4mg | Antiemetic | 10 tablets | 28 | Yes |
+
+## SECTION 6: PHARMACOVIGILANCE AND ADVERSE DRUG REACTION PROTOCOL
+
+Q: What is the hospital's process for reporting adverse drug reactions (ADRs)?
+A: Any suspected ADR is immediately documented by the treating doctor/nurse on the hospital's ADR reporting form, reported to the Pharmacovigilance Officer within 24 hours, and logged with the Pharmacy department; serious ADRs are additionally reported to the national Pharmacovigilance Programme of India (PvPI) database as per regulatory requirements.
+
+Q: How does the pharmacy screen for drug-drug interactions?
+A: The Hospital Information System (HIS) includes an integrated Clinical Decision Support System (CDSS) that flags potential drug-drug interactions, duplicate therapy, and dosage errors at the point of prescription entry, requiring pharmacist review before dispensing for any flagged combination.
+
+## SECTION 7: CHEMOTHERAPY AND SPECIALTY DRUG HANDLING
+
+Q: How are chemotherapy medications like Temozolomide dispensed and administered?
+A: Chemotherapy drugs are prepared in a dedicated cytotoxic reconstitution room under a laminar airflow hood by trained oncology pharmacists, with double-verification of dose calculation (based on body surface area) before dispensing to the ward or Day-care Oncology unit.
+
+Q: Are cold-chain medications like Insulin monitored during storage?
+A: Yes, all cold-chain medications are stored in temperature-monitored refrigerators (2-8°C) with continuous digital logging and automated alerts for any temperature excursion, reviewed twice daily by pharmacy staff.
+
+## SECTION 8: PHARMACY FAQs (CONTINUED)
+
+Q: Can a patient request a translated medication instruction sheet?
+A: Yes, medication instruction sheets (dosage, timing, precautions) are available in English, Hindi, and Telugu at the pharmacy counter; other language translations can be requested through the interpreter service.
+
+Q: What is the pharmacy's policy on dispensing partial strips for short-term prescriptions?
+A: For short-course antibiotics or one-time prescriptions, the pharmacy can dispense partial strips (cut from bulk packs) to avoid patient wastage, provided the medication is stable and properly labeled with batch and expiry details.
+
+Q: Does the hospital pharmacy provide medication counseling for discharge patients on multiple new medications (polypharmacy)?
+A: Yes, patients being discharged on 5 or more new medications receive a dedicated 15-20 minute discharge medication counseling session with a clinical pharmacist, covering timing, interactions, and warning signs to watch for.
+
+## SECTION 9: PHARMACY STAFFING AND COUNTERS
+
+| Counter | Function | Hours |
+|---|---|---|
+| PH-001 | OPD Prescription Dispensing | 24/7 |
+| PH-002 | IPD/Ward Supply & Billing | 24/7 |
+| PH-003 | Chronic Care / Refill Counter | 8 AM - 8 PM |
+| ER Satellite Pharmacy | Emergency Medication Dispensing | 24/7 |
+
+## SECTION 10: PHARMACY INVENTORY MANAGEMENT
+
+Q: How does the pharmacy manage stock levels to avoid shortages?
+A: The pharmacy uses an automated reorder system within the HIS that triggers purchase orders when stock falls below a defined reorder point (typically 15 days' average consumption), with critical/life-saving drugs maintaining a higher safety stock (30 days) and daily stock audits for narcotic and high-value chemotherapy drugs.
+
+Q: What happens if a prescribed medication is out of stock at the hospital pharmacy?
+A: The pharmacist informs the patient/ward immediately, checks real-time stock at the two empanelled external pharmacies within 2 km, and arranges same-day procurement; for IPD patients, an equivalent formulary alternative is discussed with the treating doctor if delay would affect care.
+
+## SECTION 11: EXTENDED FORMULARY EXCERPT — ANTIBIOTICS AND ANTI-INFECTIVES
+
+| Drug Name | Category | Pack Size | MRP (INR) | Generic Available |
+|---|---|---|---|---|
+| Amoxicillin-Clavulanate 625mg | Antibiotic | 10 tablets | 165 | Yes |
+| Azithromycin 500mg | Antibiotic (Macrolide) | 5 tablets | 95 | Yes |
+| Ceftriaxone 1g Injection | Antibiotic (Cephalosporin) | 1 vial | 60 | Yes |
+| Meropenem 1g Injection | Antibiotic (Carbapenem) | 1 vial | 480 | Limited |
+| Metronidazole 400mg | Antibiotic/Antiprotozoal | 10 tablets | 25 | Yes |
+| Fluconazole 150mg | Antifungal | 1 capsule | 35 | Yes |
+| Oseltamivir 75mg | Antiviral | 10 capsules | 550 | Yes |
+| Acyclovir 400mg | Antiviral | 15 tablets | 90 | Yes |
+
+## SECTION 12: PHARMACY DEPARTMENT FAQs — SAFETY AND COMPLIANCE
+
+Q: How does the pharmacy ensure a patient is not given a medication they are allergic to?
+A: The HIS flags known allergies (recorded at registration/admission and on the patient's wristband) at the point of prescription entry; the dispensing pharmacist performs a secondary manual cross-check against the allergy flag before releasing any medication to the ward.
+
+Q: What is a "Look-Alike, Sound-Alike" (LASA) drug list and how is it managed?
+A: LASA drugs (e.g., Hydralazine vs. Hydroxyzine) are stored in physically separated locations with distinct labeling (tall-man lettering, e.g., "hydrALAZINE" vs. "hydrOXYzine") and highlighted in the HIS with an alert pop-up, to reduce the risk of dispensing errors.
+
+Q: Does the pharmacy participate in antimicrobial stewardship?
+A: Yes, the hospital's Antimicrobial Stewardship Committee, which includes a clinical pharmacist, reviews broad-spectrum antibiotic prescriptions beyond 72 hours, promoting de-escalation based on culture sensitivity reports to reduce antibiotic resistance.
+
+## SECTION 13: PHARMACY BILLING AND INSURANCE COORDINATION
+
+Q: Are pharmacy charges covered under cashless insurance during an IPD stay?
+A: Yes, medications administered during a cashless-approved IPD stay are included in the overall claim submitted to the TPA/insurer; medications for take-home use post-discharge are typically excluded from cashless coverage and billed directly to the patient unless the policy specifically covers post-discharge medication.
+
+Q: Can OPD pharmacy purchases be claimed under insurance directly at the counter?
+A: No, OPD pharmacy purchases are cash/card/UPI transactions at the point of sale; patients seeking reimbursement submit the pharmacy bill along with the prescription to their insurer separately, as OPD pharmacy is not part of the cashless network in most policies.
+
+## SECTION 14: PHARMACY GLOSSARY (QUICK REFERENCE)
+
+| Term | Meaning |
+|---|---|
+| FEFO | First-Expiry-First-Out dispensing method |
+| LASA | Look-Alike, Sound-Alike drugs |
+| CDSS | Clinical Decision Support System |
+| ADR | Adverse Drug Reaction |
+| NDPS Act | Narcotic Drugs and Psychotropic Substances Act |
+| SKU | Stock Keeping Unit |
+| MRP | Maximum Retail Price |

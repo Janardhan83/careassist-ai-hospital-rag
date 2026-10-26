@@ -1,0 +1,215 @@
+# INSURANCE & TPA DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Insurance Policies, Claim Procedures, Empanelment List, FAQs for RAG Ingestion
+
+## SECTION 1: OVERVIEW OF INSURANCE SERVICES
+
+Q: What types of insurance does the hospital accept?
+A: The hospital accepts:
+1. Cashless insurance through empanelled Third Party Administrators (TPAs) and insurance companies
+2. Reimbursement claims (patient pays first, then claims from insurer)
+3. Government health schemes (Ayushman Bharat - PM-JAY, state government schemes like Aarogyasri)
+4. Corporate Group Health Insurance (GHI) policies
+5. International medical insurance (for select global insurers, with prior verification)
+
+Q: What is the difference between "cashless" and "reimbursement" claims?
+A: In cashless claims, the hospital directly bills the insurer/TPA, and the patient pays only non-covered amounts (co-pay, deductibles, non-medical items). In reimbursement claims, the patient pays the full bill at discharge and submits documents to their insurer separately for reimbursement; the hospital provides all necessary documents (discharge summary, itemized bill, reports) for this purpose.
+
+## SECTION 2: EMPANELLED TPAs AND INSURANCE COMPANIES (SAMPLE LIST)
+
+| TPA / Insurer Name | Type | Cashless Limit (Per Claim) | Pre-Authorization TAT |
+|---|---|---|---|
+| Star Health Insurance | Insurer | Up to Sum Insured | 2-4 hours |
+| ICICI Lombard Health | Insurer | Up to Sum Insured | 2-4 hours |
+| Medi Assist TPA | TPA | As per policy | 4-6 hours |
+| MD India Healthcare TPA | TPA | As per policy | 4-6 hours |
+| Paramount Health Services TPA | TPA | As per policy | 6-8 hours |
+| Vidal Health TPA | TPA | As per policy | 4-6 hours |
+| Ayushman Bharat (PM-JAY) | Govt Scheme | Up to Rs. 5,00,000/family/year | Real-time portal approval |
+| Aarogyasri (Telangana State Scheme) | Govt Scheme | As per package rates | Real-time portal approval |
+| New India Assurance | Insurer | Up to Sum Insured | 4-6 hours |
+| Bajaj Allianz Health | Insurer | Up to Sum Insured | 2-4 hours |
+
+TAT = Turnaround Time for pre-authorization approval.
+
+## SECTION 3: CASHLESS CLAIM PROCESS (STEP-BY-STEP)
+
+1. **Verification**: Patient/family submits insurance card, policy number, and ID proof at the Insurance Desk (BD-01 to BD-04).
+2. **Eligibility Check**: Insurance Desk Officer verifies policy validity, sum insured balance, and room rent eligibility via the TPA portal.
+3. **Pre-Authorization Request (PAR)**: For planned admissions, the PAR is submitted at least 48-72 hours in advance with estimated treatment cost, diagnosis, and proposed procedure. For emergencies, PAR is submitted within 24 hours of admission.
+4. **Initial Approval**: TPA/insurer issues an initial approval letter, often for a partial amount, pending final bill submission.
+5. **Enhancement Requests**: If treatment costs exceed the initial approval (e.g., complications, extended ICU stay), the hospital submits an "enhancement request" with updated clinical notes.
+6. **Final Settlement**: At discharge, the final bill, discharge summary, and all reports are submitted to the TPA. The hospital receives payment directly from the insurer within the agreed credit period (typically 15-45 days).
+7. **Patient Responsibility**: The patient settles only the non-payable items: co-pay percentage, deductibles, items excluded under the policy (e.g., admission kit, non-medical consumables), and any amount exceeding the approved sum.
+
+## SECTION 4: DOCUMENTS REQUIRED FOR INSURANCE PROCESSING
+
+For Cashless:
+- Original insurance/health card or e-card
+- Government photo ID matching the policy holder/dependent name
+- Policy number and TPA ID card
+- Doctor's admission advice with provisional diagnosis
+- Previous medical records (for pre-existing condition claims)
+
+For Reimbursement:
+- Original detailed bill with hospital seal and signature
+- Original discharge summary
+- All diagnostic reports (lab, imaging)
+- Pharmacy bills (original, with prescription)
+- Payment receipts
+- Duly filled claim form (insurer-specific)
+- KYC documents of the policyholder
+
+## SECTION 5: COMMON EXCLUSIONS AND CO-PAY SCENARIOS
+
+Q: What items are typically NOT covered by insurance (non-payable)?
+A: Common non-payable items include: admission kit/toiletries, registration fee, telephone/TV charges in room, attendant food charges, walking aids/crutches (unless specified), and any cosmetic or elective procedures not medically necessitated.
+
+Q: What is "co-pay" and how is it calculated?
+A: Co-pay is the percentage of the claim amount the patient must pay out-of-pocket, as defined by their policy (commonly 10%, 20%, or a fixed amount for senior citizens or specific treatments). Example: If a Rs. 2,00,000 bill has a 10% co-pay clause, the patient pays Rs. 20,000 and the insurer pays Rs. 1,80,000 (subject to other deductions).
+
+Q: What happens if the room occupied exceeds the policy's room rent eligibility?
+A: If a patient occupies a room above their entitled category (e.g., policy covers up to Semi-Private but patient stays in Private Room), a "proportionate deduction" clause may apply — all associated charges (doctor fees, procedure costs) are proportionately reduced based on the ratio of eligible room rent to actual room rent, in addition to the room rent difference being charged to the patient.
+
+## SECTION 6: GOVERNMENT SCHEME PROCEDURES
+
+Q: How does Ayushman Bharat (PM-JAY) cashless treatment work at this hospital?
+A: Eligible patients (identified via Ayushman Bharat Golden Card / ration card database) are verified at the dedicated PM-JAY kiosk (near BD-04). The Arogya Mitra (scheme coordinator) creates an e-card if not already issued, raises a pre-authorization request through the National Health Authority portal, and upon approval, the entire treatment package (as per CGHS/PM-JAY rate list) is provided cashless to the patient.
+
+Q: Is Aarogyasri available for all departments?
+A: Aarogyasri (Telangana state scheme) covers approximately 1,059 listed procedures across cardiology, neurology/neurosurgery, oncology, nephrology, and other specialties, primarily for BPL (Below Poverty Line) cardholders. The Aarogyasri Health Care Trust kiosk at the hospital assists with eligibility verification and procedure-package mapping.
+
+## SECTION 7: SAMPLE PRE-AUTHORIZATION REQUEST (DEMO DATA)
+
+PRE-AUTH REQUEST FORM
+Patient Name: Lakshmi Narayanan | UHID: VIH-2026-004524 | Age/Gender: 67/F
+Policy No.: ICICI-HLT-88231090 | TPA: Medi Assist
+Diagnosis: Acute Coronary Syndrome - NSTEMI
+Proposed Treatment: Coronary Angiography + Possible Angioplasty with Stent
+Estimated Cost: Rs. 2,30,000
+Room Category Requested: Private Room (Policy Eligible: Private Room)
+Admission Date: To be admitted same day (Emergency)
+Status: APPROVED - Initial Authorization Rs. 1,50,000 (Enhancement request to follow post-angiography based on findings)
+
+## SECTION 8: INSURANCE DESK FAQs
+
+Q: How long does pre-authorization take for a planned cardiac procedure?
+A: For most private insurers, 2-4 hours during business hours (9 AM - 6 PM). For TPAs, it may take 4-8 hours. Submitting the request 48 hours in advance for planned (non-emergency) admissions is strongly recommended.
+
+Q: What if the insurance pre-authorization is denied?
+A: The Insurance Desk Officer informs the patient/family immediately, explains the reason for denial (e.g., policy exclusion, insufficient sum insured, waiting period not completed), and offers the option to proceed as a self-pay patient with billing department guidance, or to appeal the denial with additional medical justification from the treating doctor.
+
+Q: Can a patient use two insurance policies together (e.g., employer policy + personal policy)?
+A: Yes, this is called "coordination of benefits." The primary insurer is billed first; any remaining balance (after primary settlement) can be claimed from the secondary insurer via reimbursement, subject to both insurers' terms.
+
+Q: Who handles insurance queries after hospital hours?
+A: The Insurance Desk operates from 8:00 AM to 8:00 PM. After hours, the Duty Manager assists with documentation, but pre-authorization approvals from TPAs typically resume the next business day unless the TPA has a 24/7 helpline (e.g., Star Health, ICICI Lombard).
+
+## SECTION 9: ADDITIONAL EMPANELLED PARTNERS
+
+| TPA / Insurer Name | Type | Cashless Limit (Per Claim) | Pre-Authorization TAT |
+|---|---|---|---|
+| HDFC ERGO Health | Insurer | Up to Sum Insured | 2-4 hours |
+| Care Health Insurance | Insurer | Up to Sum Insured | 4-6 hours |
+| Health India TPA | TPA | As per policy | 4-8 hours |
+| Raksha Health TPA | TPA | As per policy | 6-8 hours |
+| CGHS (Central Govt Health Scheme) | Govt Scheme | As per CGHS package rates | 24-48 hours (portal-based) |
+| ECHS (Ex-Servicemen Contributory Health Scheme) | Govt Scheme | As per ECHS package rates | 24-48 hours |
+
+## SECTION 10: SAMPLE CLAIM REJECTION AND APPEAL RECORD (DEMO DATA)
+
+Patient Name: Faisal Ahmed | UHID: VIH-2026-004525 | Policy: Care Health Insurance
+Claim Type: Cashless - Orthopedic Surgery (ACL Reconstruction)
+Initial Status: DENIED
+Reason for Denial: Policy waiting period for "specific illness/procedure" (2 years) not yet completed; patient's policy was 14 months old at the time of surgery.
+Hospital Action: Insurance Desk Officer informed patient/family same day; provided detailed bill and medical justification letter from treating orthopedic surgeon; patient proceeded as self-pay with Billing Department guidance for EMI conversion.
+Appeal Outcome: Appeal submitted with additional documentation; insurer upheld denial as the waiting-period clause was contractually clear. Patient advised to claim under employer's group policy (secondary coverage) via reimbursement instead.
+
+## SECTION 11: CLAIM STATUS TRACKING
+
+Q: How can a patient or family track the real-time status of their insurance claim?
+A: Claim status (Submitted / Under Review / Approved / Enhancement Requested / Settled) can be tracked via the ViharaCare App under "Insurance Status," or by calling the Insurance Desk directly (Ext. 1310) quoting the UHID and claim reference number.
+
+Q: What is the typical timeline from final bill submission to full insurer settlement?
+A: For private insurers, settlement is typically completed within 15-30 days of final bill submission. For TPA-routed claims, 30-45 days. Government schemes (PM-JAY, Aarogyasri) typically settle within 30-60 days via the respective portal.
+
+## SECTION 12: INSURANCE DESK FAQs (CONTINUED)
+
+Q: Can a patient's cashless approval be revoked mid-treatment?
+A: In rare cases, if the insurer identifies a policy discrepancy (e.g., non-disclosure of pre-existing condition) during review, cashless approval can be revoked; the hospital then converts the case to self-pay and assists the patient with alternate payment arrangements.
+
+Q: Does the Insurance Desk help with post-discharge reimbursement claim submission for external insurers?
+A: Yes, the desk provides a complete document package (final bill, discharge summary, reports) within 24-48 hours of discharge and can guide patients on filling insurer-specific reimbursement forms, though the actual claim submission to the insurer remains the patient's responsibility.
+
+Q: Are pre-existing conditions covered immediately under corporate group insurance?
+A: Most corporate group health policies waive the standard pre-existing condition waiting period from day one of coverage; however, this varies by employer policy terms and should be confirmed with the specific policy document at the Insurance Desk.
+
+## SECTION 13: INSURANCE DESK STAFFING
+
+| Role | Coverage | Extension |
+|---|---|---|
+| Insurance Desk Officer (Shift 1) | 8 AM - 2 PM | 1310 |
+| Insurance Desk Officer (Shift 2) | 2 PM - 8 PM | 1311 |
+| TPA Coordinator | 9 AM - 6 PM | 1310 |
+| PM-JAY / Aarogyasri Arogya Mitra | 8 AM - 8 PM | 1320 |
+
+## SECTION 14: DETAILED PRE-AUTHORIZATION DOCUMENT CHECKLIST
+
+Q: What clinical documents must accompany a pre-authorization request for a planned surgery?
+A: A complete PAR package includes: doctor's admission advice with ICD-10 diagnosis code, proposed procedure with CPT/procedure code, relevant investigation reports (labs, imaging) supporting the diagnosis, estimated cost breakup from the Billing Desk, and the patient's policy card copy and ID proof.
+
+Q: How does the hospital handle a PAR for an emergency admitted at night when the TPA portal has limited staffing?
+A: The Insurance Desk submits the emergency PAR through the TPA's 24/7 emergency helpline/portal where available; if the TPA does not operate 24/7, the patient is registered as self-pay temporarily, with retrospective cashless conversion pursued the next business day once approval is received (subject to the specific insurer's policy on retrospective conversion).
+
+## SECTION 15: SAMPLE ENHANCEMENT REQUEST RECORD (DEMO DATA)
+
+ENHANCEMENT REQUEST
+Patient Name: Lakshmi Narayanan | UHID: VIH-2026-004524
+Original Approval: Rs. 1,50,000 (Medi Assist)
+Reason for Enhancement: Angiography revealed severe Mitral Stenosis requiring Balloon Mitral Valvotomy (BMV) not part of original estimate; extended CICU stay for arrhythmia management.
+Additional Documents Submitted: Updated clinical notes, procedure notes, revised cost estimate (Rs. 2,10,000 total)
+Status: APPROVED — Enhanced to Rs. 2,00,000 (Rs. 10,000 co-pay applicable per policy's cardiac procedure clause)
+
+## SECTION 16: INSURANCE VERIFICATION AND ELIGIBILITY CHECK PROCEDURE
+
+Q: What does the Insurance Desk verify before confirming cashless eligibility?
+A: Verification includes: policy active status (not lapsed), waiting period completion for the specific diagnosis (especially for pre-existing conditions, maternity, or specific illnesses like cataract/hernia which often carry 1-2 year waiting periods), remaining sum insured balance, room rent capping/sub-limits, and any co-pay clauses applicable to the patient's age or diagnosis category.
+
+Q: How does room rent capping affect a patient's cashless treatment?
+A: If a policy caps eligible room rent at, say, Rs. 5,000/day, but the patient is admitted in a Private Room at Rs. 6,500/day, the insurer typically applies a proportionate deduction not just on room rent but on all associated treatment costs, so patients are advised at admission to select a room within their policy's room rent eligibility to avoid this deduction.
+
+## SECTION 17: CORPORATE GROUP HEALTH INSURANCE (GHI) — DETAILED FAQs
+
+Q: How is a corporate GHI cashless claim different from an individual retail policy claim?
+A: Corporate GHI claims typically have simpler underwriting (no medical tests required for enrollment), often no pre-existing condition waiting period, and are frequently processed faster due to bulk-negotiated rates and dedicated corporate desks at the insurer/TPA, though annual sum insured limits may be lower than customized retail policies.
+
+Q: What happens to a corporate GHI claim if the patient's employment ends mid-treatment?
+A: Coverage under a corporate policy is tied to active employment; if employment ends during an ongoing admission, the existing authorized treatment typically continues to be honored per the insurer's policy terms, but new claims after the policy termination date generally require the patient to have alternate coverage (e.g., a converted individual policy or new employer's GHI).
+
+## SECTION 18: AYUSHMAN BHARAT (PM-JAY) — EXTENDED PROCEDURE DETAILS
+
+Q: What is the maximum family coverage under Ayushman Bharat PM-JAY?
+A: PM-JAY provides coverage of up to Rs. 5,00,000 per family per year, on a floater basis (usable by any member of the enrolled family), covering over 1,500 medical and surgical procedure packages across identified empanelled hospitals including Vihara Multispeciality Hospital.
+
+Q: Can a PM-JAY beneficiary choose a higher room category than entitled and pay the difference?
+A: No, PM-JAY operates on fixed package rates that include room rent up to General Ward/Semi-Private category as defined by the scheme; patients wishing to upgrade to a Private Room typically must convert to self-pay for the room differential, subject to hospital policy and Arogya Mitra guidance.
+
+## SECTION 19: INSURANCE DESK FAQs — DENIALS AND APPEALS (EXTENDED)
+
+Q: What are the most common reasons for cashless claim denial?
+A: Common reasons include: waiting period not completed, policy lapsed due to non-payment of premium, diagnosis falling under a permanent exclusion (e.g., certain cosmetic or fertility treatments), insufficient sum insured remaining, non-disclosure of pre-existing conditions at policy inception, and treatment deemed "not medically necessary" by the insurer's medical reviewer.
+
+Q: What is the hospital's role if a patient wants to formally appeal a denied claim?
+A: The Insurance Desk assists by providing a detailed medical justification letter from the treating doctor, relevant clinical evidence, and a formal appeal letter; however, the final appeal decision rests with the insurer/TPA's grievance redressal process, and further escalation can be made to the Insurance Ombudsman if the patient remains unsatisfied.
+
+## SECTION 20: INSURANCE GLOSSARY (QUICK REFERENCE)
+
+| Term | Meaning |
+|---|---|
+| PAR | Pre-Authorization Request |
+| Sum Insured | Maximum annual claim amount under the policy |
+| Waiting Period | Time from policy start before certain conditions are covered |
+| Sub-limit | Cap on specific expense categories (e.g., room rent) regardless of sum insured |
+| Floater Policy | Family policy where sum insured is shared across all members |
+| Portability | Right to switch insurers while retaining accrued policy benefits |
+| Ombudsman | Independent authority for resolving unresolved insurance disputes |

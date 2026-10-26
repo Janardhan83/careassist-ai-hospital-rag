@@ -1,0 +1,295 @@
+# RECEPTION & FRONT DESK DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Department FAQ, SOPs, and Reference Data for RAG Ingestion
+
+## SECTION 1: HOSPITAL TIMINGS AND GENERAL INFORMATION
+
+Q: What are the hospital's OPD (Outpatient Department) timings?
+A: The OPD operates Monday to Saturday from 8:00 AM to 8:00 PM. On Sundays, OPD runs only from 9:00 AM to 1:00 PM for emergency consultations and pre-booked appointments.
+
+Q: Is the hospital open 24/7?
+A: Yes. The Emergency Department, Pharmacy, Diagnostic Lab, and Radiology (X-Ray, CT, MRI) operate 24 hours a day, 7 days a week, including public holidays.
+
+Q: What are the visiting hours for inpatients?
+A: General ward visiting hours are 11:00 AM to 1:00 PM and 5:00 PM to 7:00 PM. ICU visiting hours are restricted to 10 minutes per visit, twice daily (12:00 PM and 6:00 PM), with a maximum of two visitors per patient.
+
+Q: Where is the hospital located and how can I reach it?
+A: The hospital is located at Plot 14, Banjara Hills Road No. 12, Hyderabad, Telangana - 500034. It is accessible via Hospital Helpline +91-40-4567-8900, which is operational 24/7.
+
+## SECTION 2: APPOINTMENT BOOKING PROCEDURES
+
+Q: How can a patient book an appointment?
+A: Appointments can be booked through four channels:
+1. Walk-in registration at the front desk (Counter 1-4, Ground Floor)
+2. Phone booking via the central helpline +91-40-4567-8900
+3. Online booking through the hospital's patient portal at portal.viharahospital.com
+4. Mobile app (ViharaCare App) available on Android and iOS
+
+Q: What information is required to book a new patient appointment?
+A: For first-time patients, the receptionist must collect: full name, date of birth, gender, contact number, residential address, emergency contact name and number, government ID (Aadhaar/PAN/Passport/Voter ID), and the department or doctor requested. A unique Hospital ID (UHID) is generated and printed on the patient's ID card.
+
+Q: What is the format of the UHID (Unique Hospital ID)?
+A: The UHID format is VIH-YYYY-XXXXXX, where YYYY is the year of registration and XXXXXX is a 6-digit sequential number. Example: VIH-2026-004532.
+
+Q: Can a patient book an appointment with a specific doctor?
+A: Yes, patients may request a specific consultant. If that doctor's slots are full, the receptionist offers the next available slot or suggests an alternate consultant in the same department.
+
+Q: What is the average waiting time for OPD consultation?
+A: Average waiting time is 20-30 minutes for pre-booked appointments and 45-60 minutes for walk-in patients, depending on department load.
+
+## SECTION 3: DEPARTMENT DIRECTORY AND ROOM ALLOCATION
+
+The following departments and their locations are maintained at the front desk for patient guidance:
+
+| Department | Floor | Wing | OPD Room Numbers |
+|---|---|---|---|
+| General Medicine | Ground Floor | A Wing | G-101 to G-105 |
+| Cardiology | 1st Floor | A Wing | C-201 to C-204 |
+| Neurology / Neurosurgery | 2nd Floor | B Wing | N-301 to N-305 |
+| Orthopedics | 1st Floor | B Wing | O-210 to O-213 |
+| Pediatrics | Ground Floor | C Wing | P-115 to P-118 |
+| Gynecology & Obstetrics | 1st Floor | C Wing | GY-220 to GY-223 |
+| Dermatology | Ground Floor | A Wing | D-106 to D-107 |
+| ENT | 2nd Floor | A Wing | E-310 to E-312 |
+| Oncology | 3rd Floor | B Wing | ON-401 to ON-405 |
+| Radiology / Imaging | Basement 1 | All Wings | R-B01 to R-B06 |
+| Pathology Lab | Basement 1 | A Wing | L-B07 to L-B09 |
+| Pharmacy | Ground Floor | Main Lobby | PH-001 to PH-003 |
+| Emergency (ER) | Ground Floor | D Wing (Separate Entrance) | ER-01 to ER-08 |
+| Billing & Insurance Desk | Ground Floor | Main Lobby | BD-01 to BD-04 |
+
+## SECTION 4: PATIENT REGISTRATION TYPES
+
+1. **New Patient Registration**: First visit; UHID created; registration fee Rs. 150 (waived for emergency cases).
+2. **Returning Patient**: Existing UHID retrieved via mobile number or UHID card; no new registration fee.
+3. **Referral Patient**: Patient referred from another hospital or clinic; referral letter must be scanned and attached to the patient record.
+4. **Corporate/TPA Patient**: Patient covered under a corporate health scheme or Third Party Administrator (TPA); ID card and authorization letter verified before registration.
+5. **Emergency Registration**: Expedited registration where treatment begins immediately and paperwork is completed within 24 hours or upon stabilization.
+
+## SECTION 5: SAMPLE PATIENT QUEUE LOG (FOR REFERENCE / DEMO DATA)
+
+| Token No. | UHID | Patient Name | Age | Department | Doctor | Appointment Time | Status |
+|---|---|---|---|---|---|---|---|
+| T-101 | VIH-2026-004521 | Ramesh Kumar Patil | 58 | Cardiology | Dr. Anjali Reddy | 09:00 AM | Completed |
+| T-102 | VIH-2026-004522 | Sunitha Rao | 34 | Gynecology | Dr. Meera Iyer | 09:15 AM | Completed |
+| T-103 | VIH-2026-004523 | Arjun Verma | 45 | Neurology | Dr. Vikram Sehgal | 09:30 AM | In Progress |
+| T-104 | VIH-2026-004524 | Lakshmi Narayanan | 67 | Cardiology | Dr. Anjali Reddy | 09:45 AM | Waiting |
+| T-105 | VIH-2026-004525 | Faisal Ahmed | 29 | Orthopedics | Dr. Rohan Mehta | 10:00 AM | Waiting |
+| T-106 | VIH-2026-004526 | Priya Deshmukh | 5 | Pediatrics | Dr. Kavita Joshi | 10:00 AM | Waiting |
+| T-107 | VIH-2026-004527 | George Thomas | 71 | Neurology | Dr. Vikram Sehgal | 10:15 AM | Waiting |
+| T-108 | VIH-2026-004528 | Anitha Subramaniam | 39 | Dermatology | Dr. Neha Kapoor | 10:30 AM | Scheduled |
+
+## SECTION 6: COMMON RECEPTION FAQs
+
+Q: What documents should a patient carry for admission?
+A: Government-issued photo ID, UHID card (if returning patient), insurance card or policy number (if applicable), doctor's admission advice letter, and any previous medical records or referral letters.
+
+Q: How does a patient request a duplicate UHID card?
+A: The patient must visit the registration desk with photo ID proof. A duplicate card is issued after verification, with a nominal fee of Rs. 50.
+
+Q: What is the procedure if a patient wants to change their registered mobile number or address?
+A: The patient fills out a "Patient Detail Update Form" available at the front desk, submits valid proof of the new address/number, and the receptionist updates the Hospital Information System (HIS) within 24 hours.
+
+Q: How are emergency walk-ins prioritized at reception?
+A: Emergency cases bypass the regular token system and are immediately directed to the Emergency Department (ER-01 to ER-08). The receptionist alerts the duty nurse via the emergency call button and begins registration in parallel with treatment.
+
+Q: What is the process for discharge-related front desk activities?
+A: The receptionist verifies the discharge summary signed by the treating doctor, confirms that the billing department has cleared all dues (No Dues Certificate), and returns any deposited valuables or original documents to the patient before exit.
+
+Q: Can family members get updates about a patient's condition from reception?
+A: Reception does not provide clinical updates. Family members are directed to the ward nurse station or the treating doctor's office for medical updates, in accordance with patient privacy policy.
+
+Q: What language support is available at the front desk?
+A: Reception staff are proficient in English, Hindi, and Telugu. A telephonic interpreter service is available for other regional languages (Tamil, Kannada, Marathi, Bengali) and for international patients (Arabic, French).
+
+## SECTION 7: ESCALATION MATRIX
+
+| Issue Type | First Contact | Escalation (if unresolved in 15 min) |
+|---|---|---|
+| Long wait times | Floor Supervisor | Front Office Manager (Ext. 1102) |
+| Billing disputes | Billing Desk Officer | Billing Manager (Ext. 1205) |
+| Insurance pre-auth delays | Insurance Desk Officer | TPA Coordinator (Ext. 1310) |
+| Patient complaints (general) | Duty Manager | Patient Relations Officer (Ext. 1150) |
+| Medical emergency at desk | Nearest Nurse / Code Blue Button | ER Duty Doctor |
+
+## SECTION 8: INTERNATIONAL AND OUT-OF-CITY PATIENT SERVICES
+
+Q: Does the hospital assist international patients?
+A: Yes, the International Patient Services (IPS) desk (Ground Floor, near Counter 4) assists with visa invitation letters, cost estimates for treatment packages, airport pickup coordination, currency exchange guidance, and dedicated language interpreters (Arabic, French, Bengali on-call).
+
+Q: Is accommodation assistance available for out-of-city attendants?
+A: Yes, the hospital maintains tie-ups with 3 nearby guest houses/hotels offering discounted daily rates (Rs. 1,200 - Rs. 2,500/night) for patient attendants. The Patient Relations Officer (Ext. 1150) can arrange bookings on request.
+
+Q: Can appointments be booked in advance for out-of-city patients traveling for treatment?
+A: Yes, out-of-city and international patients can pre-book appointments up to 60 days in advance through the IPS desk, with confirmed doctor slots and estimated treatment timelines shared in writing before travel.
+
+## SECTION 9: ADMISSION CHECKLIST (QUICK REFERENCE)
+
+Q: What is the standard pre-admission checklist given to patients?
+A: 1) Government photo ID (original + photocopy), 2) UHID card if returning patient, 3) Doctor's admission advice slip, 4) Insurance card/policy number if applicable, 5) Advance deposit payment, 6) List of current medications, 7) Emergency contact details, 8) Previous relevant medical records/imaging discs.
+
+Q: How early should a patient arrive for a scheduled planned admission (e.g., surgery)?
+A: Patients should report to the Admission Desk (Counter 2) at least 2 hours prior to a scheduled surgery/procedure admission, and at least 45 minutes prior for a routine (non-surgical) planned admission, to complete registration and pre-procedure formalities.
+
+## SECTION 10: PATIENT TRANSFER BETWEEN DEPARTMENTS
+
+Q: How is an OPD patient transferred to Emergency if their condition worsens during consultation?
+A: The consulting doctor triggers an internal "Rapid Transfer" alert; the nearest available wheelchair/stretcher and nursing staff escort the patient directly to the ER, bypassing further front-desk formalities, which are completed afterward.
+
+Q: How does inter-departmental transfer work for inpatients (e.g., Cardiology to Neurology co-management)?
+A: The primary treating consultant raises an internal referral in the Hospital Information System (HIS); the receiving department's on-call doctor reviews and accepts within 2 hours. Bed transfer is coordinated by the Bed Management Cell (Ext. 1180), and billing continues seamlessly under the same UHID.
+
+## SECTION 11: EXTENDED SAMPLE PATIENT QUEUE LOG
+
+| Token No. | UHID | Patient Name | Age | Department | Doctor | Appointment Time | Status |
+|---|---|---|---|---|---|---|---|
+| T-109 | VIH-2026-004529 | Harish Chandra Rao | 62 | Cardiology | Dr. Suresh Babu Nair | 10:45 AM | Waiting |
+| T-110 | VIH-2026-004530 | Master Aryan Reddy | 7 | Neurology | Dr. Priyanka Bose | 11:00 AM | In Progress |
+| T-111 | VIH-2026-004531 | Fatima Sheikh | 51 | Oncology | Dr. Rakesh Iyer | 11:15 AM | Scheduled |
+| T-112 | VIH-2026-004532 | Naveen Kumar Reddy | 33 | General Medicine | Dr. Sanjay Gupta | 11:30 AM | Waiting |
+
+## SECTION 12: FRONT DESK STAFFING AND SUPERVISORY CONTACTS
+
+| Role | Name (Sample) | Shift | Extension |
+|---|---|---|---|
+| Front Office Manager | Ravi Teja Chowdary | 8 AM - 4 PM | 1102 |
+| Duty Manager (Evening) | Swathi Reddy | 4 PM - 12 AM | 1103 |
+| Night Duty Manager | Imran Sheikh | 12 AM - 8 AM | 1104 |
+| Patient Relations Officer | Ananya Krishnan | 9 AM - 6 PM | 1150 |
+| IPS Desk Coordinator | Fatima Al-Rashid | 9 AM - 6 PM | 1170 |
+
+## SECTION 13: TELEPHONE ETIQUETTE AND CALL HANDLING PROTOCOL
+
+Q: What is the standard greeting script for incoming calls?
+A: All reception staff answer within 3 rings using the standard script: "Good [morning/afternoon/evening], thank you for calling Vihara Multispeciality Hospital, this is [Name] speaking, how may I help you?" Calls are never left on hold for more than 45 seconds without a check-in.
+
+Q: How are call transfers handled between departments?
+A: The receptionist confirms the caller's name and query before transferring, briefs the receiving desk via internal extension, and stays on the line until the transfer is confirmed connected. If the receiving desk does not answer within 20 seconds, the call is brought back and a callback is scheduled.
+
+Q: What is the protocol for handling abusive or distressed callers?
+A: Staff remain calm and professional, do not argue, and escalate to the Duty Manager if the caller becomes abusive or if the call involves a medical emergency requiring immediate ambulance dispatch (transferred instantly to the Ambulance Control Desk, Ext. 1190).
+
+Q: Are calls recorded for quality assurance?
+A: Yes, all inbound and outbound calls through the central helpline are recorded and retained for 90 days for quality assurance, training, and dispute resolution purposes, in compliance with the hospital's data privacy policy.
+
+## SECTION 14: TOKEN AND QUEUE MANAGEMENT SYSTEM
+
+Q: How does the digital token system work at reception?
+A: Patients pull a token from the kiosk (Counter 1-4) or receive a digital token via the ViharaCare app upon online booking. The token number, estimated wait time, and counter/room number are displayed on lobby screens and updated in real time as the queue progresses.
+
+Q: What happens if a patient misses their token call?
+A: The token is recalled twice over 5 minutes via the lobby announcement system. If the patient does not respond, the token is marked "No Show" and the patient must re-register at the counter, though priority re-entry is given within the same hour where possible.
+
+Q: Is there a priority queue for elderly, pregnant, or differently-abled patients?
+A: Yes, a dedicated Priority Queue Counter (Counter 1) serves senior citizens (60+), pregnant women, differently-abled patients, and those accompanying infants under 1 year, with reduced average wait time of under 15 minutes.
+
+## SECTION 15: FRONT DESK EQUIPMENT AND SYSTEMS
+
+Q: What Hospital Information System (HIS) does the front desk use?
+A: The hospital uses "MedCore HIS v7.2," an integrated platform covering patient registration, appointment scheduling, billing, pharmacy, and clinical documentation, with role-based access control for front desk, billing, nursing, and clinical staff.
+
+Q: What backup procedure exists if the HIS system goes down?
+A: During HIS downtime, reception staff switch to a manual paper-based registration protocol using pre-printed token slips and a physical logbook, with all records digitized into the HIS within 24 hours of system restoration. A "Downtime SOP" laminated card is kept at every counter.
+
+Q: How are printed ID cards and wristbands generated?
+A: New patient ID cards are printed at Counter 1-4 using a card printer linked to the HIS immediately after registration. Inpatients additionally receive a barcoded wristband encoding UHID, name, age, blood group (if known), and allergy alerts (red band for known allergies).
+
+## SECTION 16: LOST AND FOUND, SECURITY COORDINATION
+
+Q: How does reception handle lost and found items?
+A: Items found within the hospital are logged at the Security Desk (Ground Floor, near Main Entrance) with description, location found, and time. Patients/attendants can inquire at Reception, who coordinates directly with Security (Ext. 1199). Unclaimed items are held for 30 days before donation/disposal.
+
+Q: What is the procedure if a patient or attendant reports a missing person within the hospital (e.g., a confused elderly patient or lost child)?
+A: Reception immediately alerts Security via the "Code Amber" announcement (missing patient) or "Code Pink" (missing infant/child), which triggers all exits to be monitored and a hospital-wide staff search, coordinated by the Duty Manager.
+
+## SECTION 17: FEEDBACK AND PATIENT SATISFACTION
+
+Q: How can patients provide feedback about their visit?
+A: Feedback can be submitted via: (1) QR code feedback forms at every department exit, (2) the ViharaCare app "Rate Your Visit" feature, (3) feedback boxes at reception, or (4) direct conversation with the Patient Relations Officer (Ext. 1150).
+
+Q: How often are patient satisfaction scores reviewed?
+A: Patient satisfaction data (NPS - Net Promoter Score, and department-wise ratings) is compiled monthly and reviewed by the Hospital Quality Committee, with corrective action plans initiated for any department scoring below 80% satisfaction for two consecutive months.
+
+## SECTION 18: EXTENDED SAMPLE PATIENT QUEUE LOG
+
+| Token No. | UHID | Patient Name | Age | Department | Doctor | Appointment Time | Status |
+|---|---|---|---|---|---|---|---|
+| T-113 | VIH-2026-004533 | Kavya Reddy | 27 | Gynecology | Dr. Meera Iyer | 11:45 AM | Scheduled |
+| T-114 | VIH-2026-004534 | Ibrahim Qureshi | 55 | ENT | Dr. Rajesh Pillai | 12:00 PM | Waiting |
+| T-115 | VIH-2026-004535 | Shalini Menon | 41 | Dermatology | Dr. Neha Kapoor | 12:15 PM | Scheduled |
+| T-116 | VIH-2026-004536 | Master Vivaan Shetty | 3 | Pediatrics | Dr. Kavita Joshi | 12:30 PM | Waiting |
+| T-117 | VIH-2026-004537 | Deepak Choudhary | 49 | Orthopedics | Dr. Rohan Mehta | 12:45 PM | Scheduled |
+| T-118 | VIH-2026-004538 | Radha Krishnan | 63 | Oncology | Dr. Rakesh Iyer | 01:00 PM | Waiting |
+
+## SECTION 19: VALET AND PARKING SERVICES
+
+Q: Is valet parking available at the hospital?
+A: Yes, complimentary valet parking is available at the Main Entrance for inpatient admissions and emergency drop-offs. OPD visitors can use the multi-level parking structure (Rs. 30 for the first 2 hours, Rs. 20/hour thereafter), with the first hour free for patients with a same-day appointment token.
+
+Q: Is wheelchair assistance available at the entrance?
+A: Yes, wheelchairs are stationed at the Main Entrance and Emergency Entrance, and can be requested via the reception help desk or by pressing the call button at designated wheelchair points. A porter/attendant assists patients from the vehicle to the department.
+
+## SECTION 20: RECEPTION DEPARTMENT FAQs (CONTINUED)
+
+Q: Can patients pre-register online before their first visit?
+A: Yes, first-time patients can complete pre-registration through the patient portal (portal.viharahospital.com) by filling in personal and contact details in advance; they still need to visit the counter once with original ID proof to complete verification and receive their UHID card.
+
+Q: What is the process for a patient requesting medical records of a past visit?
+A: Patients submit a "Medical Records Request Form" at Reception with photo ID, specifying the date range and purpose. Records are released within 3-5 working days for standard requests, or within 24 hours for urgent requests (e.g., referral to another hospital), subject to a nominal copying fee of Rs. 5/page.
+
+Q: Does the hospital allow same-day doctor changes if a patient is unhappy with their assigned consultant?
+A: Yes, patients may request a change of consultant within the same department at the front desk before the consultation begins, subject to slot availability; once a consultation has started, a change requires Duty Manager approval and may involve an additional consultation fee.
+
+Q: How does reception manage overbooking during peak hours (e.g., Monday mornings)?
+A: During predictably high-demand periods, reception activates additional temporary counters (5-6) and redirects walk-ins with non-urgent needs to afternoon slots, while pre-booked appointment holders are processed through a separate fast-track line to protect their scheduled time.
+
+## SECTION 21: STAFF ID AND ACCESS CONTROL AT FRONT DESK
+
+Q: How does reception verify hospital staff versus visitors for access to restricted areas (e.g., ICU, OT floor)?
+A: All hospital staff carry RFID-enabled ID badges that grant access based on role; reception issues temporary visitor badges (color-coded by area) for attendants, vendors, and contractors, logged with entry/exit time and purpose of visit, valid only for the specific date issued.
+
+Q: What is the process for media or press requesting hospital access (e.g., for a story)?
+A: All media requests are directed to the Hospital Communications Office (Ext. 1250); no photography, filming, or interviews are permitted anywhere on hospital premises without prior written approval, in order to protect patient privacy.
+
+## SECTION 22: ADDITIONAL SAMPLE PATIENT QUEUE LOG (AFTERNOON SHIFT)
+
+| Token No. | UHID | Patient Name | Age | Department | Doctor | Appointment Time | Status |
+|---|---|---|---|---|---|---|---|
+| T-119 | VIH-2026-004539 | Sanjana Rao | 31 | General Medicine | Dr. Sanjay Gupta | 02:00 PM | Scheduled |
+| T-120 | VIH-2026-004540 | Mohammed Yusuf Khan | 45 | Cardiology | Dr. Anjali Reddy | 02:15 PM | Scheduled |
+| T-121 | VIH-2026-004541 | Pooja Bhatt | 22 | Dermatology | Dr. Neha Kapoor | 02:30 PM | Waiting |
+| T-122 | VIH-2026-004542 | Ramesh Iyengar | 68 | Orthopedics | Dr. Rohan Mehta | 02:45 PM | Waiting |
+| T-123 | VIH-2026-004543 | Baby Ananya Nair | 0 (2 months) | Pediatrics | Dr. Kavita Joshi | 03:00 PM | Scheduled |
+| T-124 | VIH-2026-004544 | Vinod Kumar Singh | 52 | Neurology | Dr. Vikram Sehgal | 03:15 PM | Waiting |
+
+## SECTION 23: RECEPTION TRAINING AND ONBOARDING
+
+Q: What training do new front desk staff undergo?
+A: New reception hires complete a 2-week onboarding program covering HIS software training, communication and etiquette standards, emergency response protocols (fire, Code Blue, Code Pink), insurance/billing basics, and shadowing a senior receptionist for at least 5 shifts before working independently.
+
+Q: Are reception staff trained in basic first aid?
+A: Yes, all front-facing staff (reception, security, valet) undergo mandatory Basic Life Support (BLS) and first-aid certification, renewed annually, since they are often the first point of contact for a patient who collapses or deteriorates in the lobby.
+
+## SECTION 24: FRONT DESK KPI AND PERFORMANCE METRICS (SAMPLE, FOR REFERENCE)
+
+| Metric | Target | Sample Current Month Value |
+|---|---|---|
+| Average call answer time | Under 15 seconds | 12 seconds |
+| Average walk-in registration time | Under 5 minutes | 4.5 minutes |
+| Token-to-consultation wait (booked) | Under 30 minutes | 27 minutes |
+| Patient satisfaction (Reception) | Above 85% | 88% |
+| Call abandonment rate | Under 5% | 3.2% |
+
+## SECTION 25: RECEPTION FAQs — SPECIAL SITUATIONS
+
+Q: How does reception handle a VIP or high-profile patient visit?
+A: VIP visits are coordinated in advance with the Front Office Manager, who arranges a private waiting area, expedited registration away from the general lobby, and coordinates discreetly with Security to manage privacy, without compromising standard clinical protocols.
+
+Q: What happens if a patient arrives without any form of ID?
+A: For OPD visits, the receptionist may proceed with basic registration using self-declared details and a photograph captured at the counter, flagging the record as "ID Pending," with formal ID verification required within 7 days or at the next visit. For admissions, at least one form of identification (even an expired ID or a family member's affidavit) is required per hospital policy.
+
+Q: Can appointments be booked for a family member without them being physically present?
+A: Yes, a family member can book on behalf of a patient by providing the patient's basic details; however, the patient (or an authorized attendant with ID) must be present at the actual visit for registration verification, except for returning patients with an existing UHID.
+
+Q: Does reception coordinate discharge transportation for patients without personal vehicles?
+A: Yes, reception can arrange a hospital-affiliated cab service or ambulance transfer (BLS ambulance for stable patients needing assistance) at prevailing rates, or connect patients with ride-hailing services via the lobby kiosk.

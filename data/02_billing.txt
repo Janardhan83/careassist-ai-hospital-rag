@@ -1,0 +1,272 @@
+# BILLING DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Billing Policies, Tariffs, Procedures, and Sample Invoices for RAG Ingestion
+
+## SECTION 1: BILLING POLICY OVERVIEW
+
+Q: What payment methods does the hospital accept?
+A: The hospital accepts cash, debit/credit cards (Visa, MasterCard, RuPay, American Express), UPI payments (Google Pay, PhonePe, Paytm), net banking, and pre-approved insurance/TPA cashless settlements. Cheques are accepted only for amounts above Rs. 50,000 with prior approval from the Billing Manager.
+
+Q: When is payment expected from the patient?
+A: For OPD consultations, payment is collected at the time of registration before consultation. For inpatient (IPD) admissions, an advance deposit is collected at admission, interim bills are generated every 3 days, and the final bill is settled at discharge.
+
+Q: What is the advance deposit policy for admissions?
+A: Advance deposit amounts vary by department and estimated procedure cost:
+- General Ward admission: Rs. 15,000 - Rs. 25,000
+- Semi-Private Room: Rs. 30,000 - Rs. 50,000
+- Private Room: Rs. 60,000 - Rs. 1,00,000
+- ICU admission: Rs. 75,000 - Rs. 1,50,000
+- Major Surgery (Cardiac/Neuro): Rs. 1,50,000 - Rs. 3,00,000
+These are estimates; the final amount depends on the treating doctor's case-specific estimate.
+
+Q: Can a patient get an itemized bill?
+A: Yes. Every patient receives a detailed itemized bill at discharge listing room charges, doctor consultation fees, procedure/surgery charges, diagnostic tests, pharmacy charges, nursing charges, consumables, and any applicable taxes.
+
+## SECTION 2: ROOM TARIFF CARD (PER DAY, IN INR)
+
+| Room Category | Room Rent | Nursing Charges | Doctor Visit Charges | Total Per Day (Approx.) |
+|---|---|---|---|---|
+| General Ward (Shared, 6-bed) | 1,500 | 500 | 400 | 2,400 |
+| Semi-Private (2-bed) | 3,500 | 700 | 500 | 4,700 |
+| Private Room (1-bed, AC) | 6,500 | 900 | 700 | 8,100 |
+| Deluxe Room (Suite) | 12,000 | 1,200 | 900 | 14,100 |
+| ICU (General) | 9,500 | 2,500 | 1,200 | 13,200 |
+| Cardiac ICU (CICU) | 14,000 | 3,000 | 1,500 | 18,500 |
+| Neuro ICU (NICU) | 14,500 | 3,200 | 1,500 | 19,200 |
+| Isolation Room | 7,000 | 1,000 | 700 | 8,700 |
+
+Note: Doctor visit charges apply per visit per day for the primary consultant; specialist consultations (e.g., a cardiologist visiting a neuro patient) are billed separately.
+
+## SECTION 3: PROCEDURE AND SURGERY TARIFFS (APPROXIMATE PACKAGE RATES)
+
+| Procedure | Department | Package Rate (INR) | Inclusions |
+|---|---|---|---|
+| Angiography (Coronary) | Cardiology | 25,000 - 35,000 | Procedure, catheter, contrast, 1-day observation |
+| Angioplasty with single stent | Cardiology | 1,80,000 - 2,50,000 | Stent, procedure, 2-day CICU stay |
+| Bypass Surgery (CABG) | Cardiology | 2,50,000 - 4,50,000 | Surgery, 5-day ICU + 5-day ward stay |
+| Pacemaker Implantation | Cardiology | 1,50,000 - 2,80,000 | Device, procedure, 2-day stay |
+| MRI Brain (Plain) | Radiology/Neurology | 6,000 - 8,000 | Scan + radiologist report |
+| MRI Brain (Contrast) | Radiology/Neurology | 9,000 - 12,000 | Scan + contrast agent + report |
+| CT Brain | Radiology/Neurology | 3,500 - 5,000 | Scan + report |
+| Craniotomy for Tumor Resection | Neurosurgery | 3,50,000 - 6,50,000 | Surgery, 7-day NICU + 7-day ward stay |
+| Stereotactic Biopsy (Brain) | Neurosurgery | 80,000 - 1,20,000 | Procedure, 2-day NICU |
+| Gamma Knife Radiosurgery | Neuro-Oncology | 2,00,000 - 3,50,000 | Procedure (per session) |
+| Chemotherapy (per cycle) | Oncology | 15,000 - 60,000 | Drug cost varies by regimen |
+| Radiation Therapy (per session) | Oncology | 2,500 - 5,000 | IMRT/3D-CRT |
+
+Note: Rates are illustrative for training/demo purposes and exclude surgeon's professional fee in some packages, which ranges from Rs. 25,000 to Rs. 1,50,000 depending on procedure complexity.
+
+## SECTION 4: TAXES AND ADDITIONAL CHARGES
+
+Q: Is GST applicable on hospital bills?
+A: As per current healthcare regulations, room rent and medical services are exempt from GST for most categories. However, GST at 18% applies to non-medical amenities such as room categories exceeding Rs. 5,000/day (in certain tax regimes), cosmetic procedures, and food/cafeteria services for attendants.
+
+Q: What additional charges might appear on a bill besides treatment costs?
+A: Common additional charges include: biomedical waste management fee (Rs. 50-100/day), consumables (gloves, syringes, dressing materials), oxygen charges (if used beyond standard allocation), ambulance charges (if used), administrative/file charges (one-time Rs. 100), and attendant bed charges (Rs. 200/day if opted).
+
+## SECTION 5: DISCOUNTS AND PACKAGES
+
+Q: Does the hospital offer any discounts?
+A: Yes:
+- Senior citizens (60+): 5% discount on room rent
+- Corporate tie-up employees: 10-15% discount as per MoU
+- Health camp referral patients: 10% discount on first consultation
+- Cashless insurance patients: discounts as per TPA-negotiated rates (no separate patient discount)
+
+Q: Are there fixed health check-up packages?
+A: Yes. Examples include:
+- Basic Health Checkup: Rs. 1,500 (CBC, blood sugar, lipid profile, urine routine)
+- Cardiac Health Checkup: Rs. 4,500 (ECG, Echo, lipid profile, TMT, consultation)
+- Executive Full Body Checkup: Rs. 8,500 (comprehensive blood work, ECG, USG abdomen, chest X-ray, consultation)
+- Neuro Screening Package: Rs. 6,000 (MRI Brain screening, consultation, basic cognitive assessment)
+
+## SECTION 6: REFUND AND CANCELLATION POLICY
+
+Q: What happens if a patient cancels a planned admission after paying an advance?
+A: If cancelled 48 hours before the scheduled admission date, 100% refund is processed within 7 working days. If cancelled within 48 hours, a 10% administrative fee is deducted. No refund is given for no-shows without prior cancellation.
+
+Q: How long does a refund take after discharge if the advance exceeds the final bill?
+A: Refunds are processed within 5-7 working days via the original mode of payment. Cash refunds above Rs. 10,000 are issued via cheque or bank transfer only.
+
+## SECTION 7: SAMPLE ITEMIZED INVOICE (DEMO DATA)
+
+INVOICE NO: VIH-INV-2026-08831
+PATIENT: Ramesh Kumar Patil | UHID: VIH-2026-004521
+DEPARTMENT: Cardiology | ADMISSION TYPE: IPD (3 days)
+
+| Description | Quantity | Rate (INR) | Amount (INR) |
+|---|---|---|---|
+| Private Room Rent (3 days) | 3 | 6,500 | 19,500 |
+| Nursing Charges (3 days) | 3 | 900 | 2,700 |
+| Cardiologist Visit Charges (3 days) | 3 | 700 | 2,100 |
+| Coronary Angiography | 1 | 28,000 | 28,000 |
+| ECG | 2 | 300 | 600 |
+| 2D Echo | 1 | 2,500 | 2,500 |
+| Blood Tests (Cardiac Panel) | 1 | 3,200 | 3,200 |
+| Pharmacy Charges | - | - | 4,150 |
+| Biomedical Waste Fee (3 days) | 3 | 80 | 240 |
+| Administrative Charges | 1 | 100 | 100 |
+| **SUBTOTAL** | | | **63,090** |
+| GST (where applicable) | | | 0 |
+| **TOTAL PAYABLE** | | | **63,090** |
+| Advance Paid | | | 70,000 |
+| **REFUND DUE** | | | **6,910** |
+
+## SECTION 8: BILLING DEPARTMENT FAQs
+
+Q: Who can a patient contact for billing disputes?
+A: The Billing Desk Officer (Counters BD-01 to BD-04, Ground Floor Lobby) handles initial queries. Unresolved disputes escalate to the Billing Manager (Ext. 1205) within 24 hours.
+
+Q: Can a corporate employee get a bill addressed directly to their employer?
+A: Yes, provided the employer has an active corporate tie-up (MoU) with the hospital and the employee presents a valid authorization/credit letter at admission. The bill is then split into "Employer Payable" and "Employee Payable" (co-pay) portions.
+
+Q: What happens if a patient cannot pay the full bill at discharge?
+A: The patient can request a "Partial Payment with Undertaking" where at least 70% of the bill is paid, and the remaining balance is documented with a signed promissory note and follow-up date, subject to approval by the Billing Manager.
+
+Q: How are pharmacy charges incorporated into the IPD bill?
+A: All medicines and consumables dispensed to inpatients are charged directly to the patient's bill via the in-house pharmacy module in the Hospital Information System (HIS), itemized by drug name, quantity, and MRP-linked rate.
+
+## SECTION 9: EMI AND FINANCING OPTIONS
+
+Q: Does the hospital offer EMI (installment) options for high-value treatments?
+A: Yes, through tie-ups with Bajaj Finserv Health EMI, HDFC Bank No-Cost EMI, and ICICI Bank Health Card, patients can convert bills above Rs. 50,000 into 3, 6, 9, or 12-month EMIs, subject to credit approval at the point of billing (Counter BD-03).
+
+Q: Is there a hospital-run financial assistance scheme for economically weaker patients?
+A: Yes, the "Vihara Cares Fund" provides partial bill waivers (10-40%) for verified BPL (Below Poverty Line) patients and medico-legal cases requiring emergency surgery, subject to review by the Medical Social Worker and hospital's CSR committee, typically processed within 48 hours.
+
+## SECTION 10: ADDITIONAL PROCEDURE TARIFFS
+
+| Procedure | Department | Package Rate (INR) | Inclusions |
+|---|---|---|---|
+| Balloon Mitral Valvotomy (BMV) | Cardiology | 1,60,000 - 2,20,000 | Procedure, 2-day CICU stay |
+| Electrophysiology Study (EPS) | Cardiology | 90,000 - 1,40,000 | Procedure, 1-day observation |
+| Stereotactic Radiosurgery (Gamma Knife, additional session) | Neuro-Oncology | 1,80,000 - 3,00,000 | Per additional session |
+| EEG (Routine) | Neurology | 2,000 - 3,000 | Test + report |
+| EEG (24-hour Video Telemetry) | Neurology | 15,000 - 22,000 | Monitoring + report |
+| Nerve Conduction Study (NCS/EMG) | Neurology | 3,500 - 5,500 | Test + report |
+| Health Checkup - Cardiac Package | Preventive Health | 4,500 | See Section 5 |
+| Normal Delivery Package | Gynecology | 45,000 - 65,000 | 2-day stay, standard care |
+| Cesarean Section Package | Gynecology | 85,000 - 1,25,000 | 4-day stay, standard care |
+
+## SECTION 11: SAMPLE CORPORATE-BILLED INVOICE (DEMO DATA)
+
+INVOICE NO: VIH-INV-2026-08902
+PATIENT: Naveen Kumar Reddy | UHID: VIH-2026-004532
+EMPLOYER: TechSphere Solutions Pvt. Ltd. (Corporate MoU: 15% discount, 90% employer-payable)
+DEPARTMENT: General Medicine | ADMISSION TYPE: OPD + Day-care
+
+| Description | Amount (INR) |
+|---|---|
+| Consultation Fee | 800 |
+| Day-care Procedure (Minor) | 12,000 |
+| Pharmacy Charges | 950 |
+| **SUBTOTAL** | 13,750 |
+| Corporate Discount (15%) | -2,062.50 |
+| **NET PAYABLE** | 11,687.50 |
+| Employer Payable (90%) | 10,518.75 |
+| Employee Payable (10% co-pay) | 1,168.75 |
+
+## SECTION 12: BILLING FAQs (CONTINUED)
+
+Q: How can a patient track their bill status in real time during a long admission?
+A: Registered patients/attendants can view live running-bill status via the ViharaCare App under "My Admissions," updated every 24 hours, or request a printed interim statement at any time from the ward billing counter.
+
+Q: Are diagnostic package rates different if tests are done as a standalone visit versus during an admission?
+A: Standalone (OPD walk-in) diagnostic rates are typically 5-10% lower than the same tests billed during an IPD admission, as inpatient tests include additional handling, urgent processing, and ward-collection logistics.
+
+Q: What happens to unclaimed refund amounts?
+A: Refunds unclaimed for over 90 days are transferred to an escrow account; patients can claim them anytime by contacting the Billing Manager with proof of the original invoice and ID.
+
+Q: Does the hospital provide advance cost estimates before elective surgery?
+A: Yes, a written, itemized cost estimate is provided by the Billing Desk in coordination with the treating surgeon before any elective/planned surgery, valid for 15 days from issue.
+
+## SECTION 13: BILLING DEPARTMENT STAFFING AND COUNTERS
+
+| Counter | Function | Hours |
+|---|---|---|
+| BD-01 | New Admission Advance Collection | 24/7 |
+| BD-02 | Interim Bill Payment / Queries | 8 AM - 8 PM |
+| BD-03 | Discharge Billing & EMI Processing | 8 AM - 8 PM |
+| BD-04 | Insurance-linked Billing & TPA Coordination | 8 AM - 8 PM |
+
+Q: Is a billing counter staffed 24/7 for emergency admissions?
+A: Yes, BD-01 operates 24/7 specifically to collect advance deposits or process emergency registrations; however, per hospital policy, treatment is never delayed pending payment in genuine emergencies.
+
+## SECTION 14: INTERIM BILLING CYCLE — DETAILED PROCESS
+
+Q: What happens if a patient does not clear an interim bill within the 3-day cycle?
+A: The billing desk issues a reminder to the ward and the patient/attendant. If unresolved for 2 consecutive cycles (6 days) without a payment plan or insurance pre-authorization in progress, the case is escalated to the Billing Manager, who may request the treating doctor and Medical Social Worker to review the case for financial counseling or Vihara Cares Fund eligibility, without interrupting ongoing medical care.
+
+Q: Are interim bills adjusted against the final bill automatically?
+A: Yes, all interim payments and the initial advance deposit are automatically reconciled against the final itemized bill at discharge, with the HIS generating a consolidated statement showing total charges, total payments, and balance due or refundable.
+
+## SECTION 15: SAMPLE ICU/HIGH-VALUE ITEMIZED INVOICE (DEMO DATA)
+
+INVOICE NO: VIH-INV-2026-09015
+PATIENT: Harish Chandra Rao | UHID: VIH-2026-004529
+DEPARTMENT: Cardiology | ADMISSION TYPE: IPD (6 days, CICU + Ward)
+
+| Description | Quantity | Rate (INR) | Amount (INR) |
+|---|---|---|---|
+| CICU Room Charges (2 days) | 2 | 14,000 | 28,000 |
+| Private Room Rent (4 days) | 4 | 6,500 | 26,000 |
+| Nursing Charges (6 days) | 6 | 1,000 | 6,000 |
+| Cardiologist Visit Charges (6 days) | 6 | 1,200 | 7,200 |
+| NT-proBNP Test | 1 | 1,800 | 1,800 |
+| 2D Echo | 2 | 2,500 | 5,000 |
+| CRT-D Device Evaluation Consult | 1 | 3,500 | 3,500 |
+| Pharmacy Charges (Sacubitril-Valsartan, diuretics etc.) | - | - | 8,240 |
+| Oxygen Charges | 3 | 300 | 900 |
+| Biomedical Waste Fee (6 days) | 6 | 80 | 480 |
+| Administrative Charges | 1 | 100 | 100 |
+| **SUBTOTAL** | | | **87,220** |
+| Senior Citizen Discount (5% on room rent) | | | -2,700 |
+| **TOTAL PAYABLE** | | | **84,520** |
+| Advance Paid | | | 90,000 |
+| **REFUND DUE** | | | **5,480** |
+
+## SECTION 16: BILLING FOR DAY-CARE AND OUTPATIENT PROCEDURES
+
+Q: How is billing handled for day-care procedures that don't require overnight admission?
+A: Day-care procedures (e.g., minor endoscopies, cataract surgery, chemotherapy day-care) are billed as a single package covering the procedure, day-care bed charges (typically Rs. 1,500-2,500 for up to 6 hours), consumables, and a nominal observation charge, settled the same day before discharge.
+
+Q: Are OPD diagnostic test payments refundable if the test is not conducted?
+A: Yes, if a booked diagnostic test is cancelled before sample collection or scan initiation, a full refund is processed instantly at the billing counter; partial refunds do not apply once a test has commenced.
+
+## SECTION 17: TAX INVOICE AND GST DETAILS (REFERENCE)
+
+Q: What is the hospital's GSTIN and how is it reflected on invoices?
+A: The hospital's GSTIN is printed on every tax invoice where applicable (non-medical amenities, cafeteria, cosmetic procedures). Purely medical treatment invoices are marked "GST Exempt as per Healthcare Services Notification" per prevailing tax rules.
+
+Q: Can a patient request a bill under a different name for reimbursement purposes (e.g., a company name)?
+A: No, invoices are always issued in the patient's legal name as registered under their UHID; however, a separate "Employer Payable" split invoice can be generated for corporate-billed cases per Section 11 of this document, with the employer's name included as the payer of record.
+
+## SECTION 18: BILLING FAQs — DECEASED PATIENT AND MEDICO-LEGAL CASES
+
+Q: How is final billing handled if a patient passes away during treatment?
+A: The treating team completes the death summary and the Billing Desk finalizes the bill based on services rendered up to the time of death; families are not billed for any services beyond that point, and the No Dues Certificate process is completed with the next of kin or legal representative.
+
+Q: How are Medico-Legal Cases (MLC) — e.g., accident or assault victims — billed?
+A: Initial emergency stabilization for MLC patients is provided regardless of payment status per ethical and legal guidelines; billing is processed per standard tariffs, with police/insurance/third-party liability documentation coordinated by the Medical Social Worker where applicable (e.g., motor vehicle accident claims under the Motor Vehicles Act).
+
+## SECTION 19: BILLING DEPARTMENT ESCALATION AND AUDIT
+
+Q: Is there an internal audit process for billing accuracy?
+A: Yes, the hospital's Internal Audit team conducts random weekly audits of 5% of discharged bills to check for billing errors, duplicate charges, or missed insurance credits, with findings reported to the Billing Manager and corrective training provided as needed.
+
+Q: What is the process if a patient identifies a billing error after discharge?
+A: The patient can raise a dispute within 30 days of discharge by submitting the invoice copy and details of the discrepancy at the Billing Desk or via the ViharaCare app; verified errors are corrected and any excess amount refunded within 7 working days.
+
+## SECTION 20: BILLING GLOSSARY (QUICK REFERENCE)
+
+| Term | Meaning |
+|---|---|
+| UHID | Unique Hospital ID, permanent patient identifier |
+| IPD | Inpatient Department (admitted patient) |
+| OPD | Outpatient Department (non-admitted visit) |
+| TPA | Third Party Administrator (insurance claim processor) |
+| Co-pay | Percentage of bill patient pays out-of-pocket per policy terms |
+| Sum Insured | Maximum coverage amount under a policy per year |
+| No Dues Certificate | Confirmation that all bills are cleared, required before discharge |
+| LOS | Length of Stay |
+| MLC | Medico-Legal Case |
